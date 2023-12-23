@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1, Sport TV1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+
+#EXTINF:-1, Sport TV2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+
+#EXTINF:-1, Sport TV3
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+
+#EXTINF:-1, Sport TV4
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+
+#EXTINF:-1, Sport TV5
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV_GOLFE_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+
+#EXTINF:-1, Eleven1
+https://tvembed.net/eleven1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=7bfeb97ce9b8c842b1bfc5a4ff9f713da543773a-97b16ef4c47da220c7ec07739fb20e26-1700436834-1700429634
+
+#EXTINF:-1, Eleven2
+https://server11.net/eleven2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=b16be89e159e30ca141b7c912dfec2a598344d14-cdb17132eb7e31873b4f9a3435412227-1700437136-1700429936
+
+#EXTINF:-1, Eleven3
+https://server11.net/eleven3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=7913bf60826af7009a05949ab3cf866f39c33c90-e00dce3b568cc823a415dade19be5f9a-1700436885-1700429685
+
+#EXTINF:-1, Eleven4
+
+
+#EXTINF:-1, Eleven5
+https://server11.net/eleven5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=bf5c392dadb39c5c56529c0bde61e13f1a6fc868-e2234c1931a7148d9317896e4f78f708-1700436909-1700429709
+
+#EXTINF:-1, Eleven6
+https://server11.net/eleven6/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=3a9101a292efe40373ce94e26b106e3f7778aa22-a8bcaa3f8485b5274230d122ea136282-1700436917-1700429717
+
+#EXTINF:-1, Benfica TV
+https://server11.net/benficatv/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=5f17b551fb47eb95e1547383f63b16ff9fa0c4ff-ef99a66207ff2c120a9ac041f63bb8cb-1700436338-1700429138
+
 
 
 ##############################################
