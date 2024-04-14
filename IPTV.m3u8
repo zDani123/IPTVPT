@@ -4,37 +4,37 @@
 https://server11.net/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=611ddafef1f9f663b058031fc506d41aaba25545-360bece05f919e276d6a746d3c53da18-1713125095-1713121495
 
 #EXTINF:-1 group-title="TV", Sport TV2
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+https://server11.net/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=70b4b340f81683009865433fed094d9a27790e86-84e01d08ea45f3919e43177434a9ffe1-1713126485-1713122885
 
 #EXTINF:-1 group-title="TV", Sport TV3
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+https://server11.net/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=d7a88a462fead9502a509dc173e9e482682954ba-d21199382fd543eeb6ef8bc36380bcb4-1713126512-1713122912
 
 #EXTINF:-1 group-title="TV", Sport TV4
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+https://server11.net/spt4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=68d27615c6871e52608974aa9edebd7b120edca9-b9062d54d144d3dd957c7f6d630e3831-1713126531-1713122931
 
 #EXTINF:-1 group-title="TV", Sport TV5
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV_GOLFE_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+https://server11.net/spt5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=e63e68fc6558a47f599bfd2b0ced8be161b73e2c-7e2efe20733c7a903acc62854e39454b-1713126540-1713122940
 
 ############################################################
 
 
 #EXTINF:-1 group-title="TV", Eleven1
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+https://server11.net/eleven1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=13e87b38076a4ca810dcc738ed19a8359d1cbb74-dff8d669e1031d7bced6220b237be34d-1713126592-1713122992
 
 #EXTINF:-1 group-title="TV", Eleven2
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+https://server11.net/eleven2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=8cdf4cd0058604d521810ca5bc97226aeab0485a-b12266ec8e24a1657080a538a7e93a21-1713126603-1713123003
 
 #EXTINF:-1 group-title="TV", Eleven3
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+https://server11.net/eleven3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=c8aee1d9eadd8eac33ef8e34d49d864a12b7c531-a2ff2a0762236cd6a96fc5f1fa45c21a-1713126613-1713123013
 
 #EXTINF:-1 group-title="TV", Eleven4
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+https://server11.net/eleven4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=7df2d93d8e79ccf0eb6248044abf8fe798c0571f-3598a1ebe042920ab2f1854c180e9793-1713126626-1713123026
 
 #EXTINF:-1 group-title="TV", Eleven5
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+https://server11.net/eleven5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=52c263b18e0317a859ea46fea0542dab9a9c7b1b-09d530467725f4cdf4654127eead16d5-1713126638-1713123038
 
 #EXTINF:-1 group-title="TV", Eleven6
-https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+https://server11.net/eleven6/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=f9a631c20f2a11415b2b9437d983ed56b38867fb-a197a8d8b2398f64b1240c15bfe12fb2-1713126646-1713123046
 
 #EXTINF:-1 group-title="TV", Benfica TV
 https://server11.net/btv-alt/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=6398262e29c18e67173add39ad44bb44ceca1520-21258d1076359e8a2f14c010c53c3a68-1713125611-1713122011
