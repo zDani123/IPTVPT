@@ -1,22 +1,56 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="JOGOS", PT058:Sport TV 1 HD
-http://mohdtv.com:8880/voby3949/54128273/3192
+http://mohdtv.com:8880/voby5004/874289348/3192
 
 #EXTINF:-1 group-title="JOGOS", PT059:Sport TV 2 HD
-http://mohdtv.com:8880/voby3949/54128273/3191
+http://mohdtv.com:8880/voby5004/874289348/3191
 
 #EXTINF:-1 group-title="JOGOS", PT060:Sport TV 3 HD
-http://mohdtv.com:8880/voby3949/54128273/3190
+http://mohdtv.com:8880/voby5004/874289348/3190
 
 #EXTINF:-1 group-title="JOGOS", PT061:Sport TV 4 HD
-http://mohdtv.com:8880/voby3949/54128273/3189
+http://mohdtv.com:8880/voby5004/874289348/3189
 
 #EXTINF:-1 group-title="JOGOS", PT062:Sport TV 5 HD
-http://mohdtv.com:8880/voby3949/54128273/3188
+http://mohdtv.com:8880/voby5004/874289348/3188
+
+#EXTINF:-1 group-title="JOGOS",PT148:SPORT TV 6 HD
+http://mohdtv.com:8880/voby3949/54128273/29342
 
 #EXTINF:-1 group-title="JOGOS", PT063:SPORT TV+
-http://mohdtv.com:8880/voby3949/54128273/3187
+http://mohdtv.com:8880/voby5004/874289348/3187
 
 #EXTINF:-1 group-title="JOGOS", PT064:Sporting TV
-http://mohdtv.com:8880/voby3949/54128273/3186
+http://mohdtv.com:8880/voby5004/874289348/3186
+
+#EXTINF:-1 group-title="JOGOS",PT156:Eleven Sports 1 SD
+http://mohdtv.com:8880/voby3949/54128273/29334
+#EXTINF:-1 group-title="JOGOS",PT157:Eleven Sports 1 FHD
+http://mohdtv.com:8880/voby3949/54128273/49966
+#EXTINF:-1 group-title="JOGOS",PT158:SPORT TV 5 FHD
+http://mohdtv.com:8880/voby3949/54128273/49958
+#EXTINF:-1 group-title="JOGOS",PT159:Eleven Sports 2 FHD
+http://mohdtv.com:8880/voby3949/54128273/49032
+#EXTINF:-1 group-title="JOGOS",PT145:Eleven Sports 3 SD
+http://mohdtv.com:8880/voby3949/54128273/29345
+#EXTINF:-1 group-title="JOGOS",PT146:Eleven Sports 4 SD
+http://mohdtv.com:8880/voby3949/54128273/29344
+#EXTINF:-1 group-title="JOGOS",PT134:Eleven Sports 2 SD
+http://mohdtv.com:8880/voby3949/54128273/29356
+#EXTINF:-1 group-title="JOGOS",PT119:Eleven Sports 3 FHD
+http://mohdtv.com:8880/voby3949/54128273/29371
+#EXTINF:-1 group-title="JOGOS",PT120:Eleven Sports 4 FHD
+http://mohdtv.com:8880/voby3949/54128273/29370
+#EXTINF:-1 group-title="JOGOS",PT121:Eleven Sports 5 SD
+http://mohdtv.com:8880/voby3949/54128273/29369
+#EXTINF:-1 group-title="JOGOS",PT122:Eleven Sports 6 FHD
+http://mohdtv.com:8880/voby3949/54128273/29368
+#EXTINF:-1 group-title="JOGOS",PT098:SPORT TV 1 FHD
+http://mohdtv.com:8880/voby3949/54128273/29392
+#EXTINF:-1 group-title="JOGOS",PT099:SPORT TV 2 FHD
+http://mohdtv.com:8880/voby3949/54128273/29391
+#EXTINF:-1 group-title="JOGOS",PT100:SPORT TV 3 FHD
+http://mohdtv.com:8880/voby3949/54128273/29390
+#EXTINF:-1 group-title="JOGOS",PT101:SPORT TV 4 FHD
+http://mohdtv.com:8880/voby3949/54128273/29389
