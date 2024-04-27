@@ -1215,6 +1215,15 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
 ################# 2hubs #########################
 
 
@@ -1233,209 +1242,377 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 
 
+#EXTINF:-1 channelID="x-ID.1151" tvg-chno="1151" tvg-id="1151" group-title="TV",PT: RTP 1 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95292
+#EXTINF:-1 channelID="x-ID.1152" tvg-chno="1152" tvg-id="1152" group-title="TV",PT: RTP 2 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95293
+#EXTINF:-1 channelID="x-ID.1153" tvg-chno="1153" tvg-id="1153" group-title="TV",PT: RTP 1
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95294
+#EXTINF:-1 channelID="x-ID.1154" tvg-chno="1154" tvg-id="1154" group-title="TV",PT: RTP 2
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95295
+#EXTINF:-1 channelID="x-ID.1155" tvg-chno="1155" tvg-id="1155" group-title="TV",PT: RTP 3
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95296
+#EXTINF:-1 channelID="x-ID.1156" tvg-chno="1156" tvg-id="1156" group-title="TV",PT: RTP INTERNATIONAL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95297
+#EXTINF:-1 channelID="x-ID.1157" tvg-chno="1157" tvg-id="1157" group-title="TV",PT: RTP ACORES
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95298
+#EXTINF:-1 channelID="x-ID.1158" tvg-chno="1158" tvg-id="1158" group-title="TV",PT: RTP AFRICA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95299
+#EXTINF:-1 channelID="x-ID.1159" tvg-chno="1159" tvg-id="1159" group-title="TV",PT: RTP MADEIRA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95300
+#EXTINF:-1 channelID="x-ID.1160" tvg-chno="1160" tvg-id="1160" group-title="TV",PT: RTP MEMORIA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95301
+#EXTINF:-1 channelID="x-ID.1161" tvg-chno="1161" tvg-id="1161" group-title="TV",PT: SIC
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95302
+#EXTINF:-1 channelID="x-ID.1162" tvg-chno="1162" tvg-id="1162" group-title="TV",PT: SIC MULHER
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95303
+#EXTINF:-1 channelID="x-ID.1163" tvg-chno="1163" tvg-id="1163" group-title="TV",PT: SIC NOTICIAS
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95304
+#EXTINF:-1 channelID="x-ID.1164" tvg-chno="1164" tvg-id="1164" group-title="TV",PT: SIC RADICAL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95305
+#EXTINF:-1 channelID="x-ID.1165" tvg-chno="1165" tvg-id="1165" group-title="TV",PT: SIC CARAS
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95306
+#EXTINF:-1 channelID="x-ID.1166" tvg-chno="1166" tvg-id="1166" group-title="TV",PT: SIC K
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95307
+#EXTINF:-1 channelID="x-ID.1167" tvg-chno="1167" tvg-id="1167" group-title="TV",PT: CANAL Q
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95308
+#EXTINF:-1 channelID="x-ID.1168" tvg-chno="1168" tvg-id="1168" group-title="TV",PT: PORTO CANAL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95309
+#EXTINF:-1 channelID="x-ID.1169" tvg-chno="1169" tvg-id="1169" group-title="TV",PT: TVE INTERNACIONAL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95310
+#EXTINF:-1 channelID="x-ID.1170" tvg-chno="1170" tvg-id="1170" group-title="TV",PT: TVE 24H
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95311
+#EXTINF:-1 channelID="x-ID.1171" tvg-chno="1171" tvg-id="1171" group-title="TV",PT: TVI
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95312
+#EXTINF:-1 channelID="x-ID.1172" tvg-chno="1172" tvg-id="1172" group-title="TV",PT: TVI 24
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95313
+#EXTINF:-1 channelID="x-ID.1173" tvg-chno="1173" tvg-id="1173" group-title="TV",PT: TVI FICCAO
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95314
+#EXTINF:-1 channelID="x-ID.1174" tvg-chno="1174" tvg-id="1174" group-title="TV",PT: MCS EXTREME
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95315
+#EXTINF:-1 channelID="x-ID.1175" tvg-chno="1175" tvg-id="1175" group-title="TV",PT: TVI REALITY
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95316
+#EXTINF:-1 channelID="x-ID.1176" tvg-chno="1176" tvg-id="1176" group-title="TV",PT: TV RECORD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95317
+#EXTINF:-1 channelID="x-ID.1177" tvg-chno="1177" tvg-id="1177" group-title="TV",PT: ZAP VIVA HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95318
+#EXTINF:-1 channelID="x-ID.1178" tvg-chno="1178" tvg-id="1178" group-title="TV",PT: KURIAKOS TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95319
+#EXTINF:-1 channelID="x-ID.1179" tvg-chno="1179" tvg-id="1179" group-title="TV",PT: TCV CABO RADIO
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95320
+#EXTINF:-1 channelID="x-ID.1180" tvg-chno="1180" tvg-id="1180" group-title="TV",PT: BABY TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95322
+#EXTINF:-1 channelID="x-ID.1181" tvg-chno="1181" tvg-id="1181" group-title="TV",PT: CANAL PANDA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95323
+#EXTINF:-1 channelID="x-ID.1182" tvg-chno="1182" tvg-id="1182" group-title="TV",PT: DISNEY CHANNEL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95324
+#EXTINF:-1 channelID="x-ID.1183" tvg-chno="1183" tvg-id="1183" group-title="TV",PT: DISNEY JUNIOR
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95325
+#EXTINF:-1 channelID="x-ID.1184" tvg-chno="1184" tvg-id="1184" group-title="TV",PT: CARTOON NETWORK
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95326
+#EXTINF:-1 channelID="x-ID.1185" tvg-chno="1185" tvg-id="1185" group-title="TV",PT: JIM JAM
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95327
+#EXTINF:-1 channelID="x-ID.1186" tvg-chno="1186" tvg-id="1186" group-title="TV",PT: BIGGS
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95328
+#EXTINF:-1 channelID="x-ID.1187" tvg-chno="1187" tvg-id="1187" group-title="TV",PT: NICKELODEON
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95329
+#EXTINF:-1 channelID="x-ID.1188" tvg-chno="1188" tvg-id="1188" group-title="TV",PT: NICK JR.
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95330
+#EXTINF:-1 channelID="x-ID.1189" tvg-chno="1189" tvg-id="1189" group-title="TV",PT: E! ENTERTAINMENT
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95332
+#EXTINF:-1 channelID="x-ID.1190" tvg-chno="1190" tvg-id="1190" group-title="TV",PT: AMC HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95334
+#EXTINF:-1 channelID="x-ID.1191" tvg-chno="1191" tvg-id="1191" group-title="TV",PT: AMC
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95335
+#EXTINF:-1 channelID="x-ID.1192" tvg-chno="1192" tvg-id="1192" group-title="TV",PT: AXN HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95336
+#EXTINF:-1 channelID="x-ID.1193" tvg-chno="1193" tvg-id="1193" group-title="TV",PT: AXN WHITE HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95337
+#EXTINF:-1 channelID="x-ID.1194" tvg-chno="1194" tvg-id="1194" group-title="TV",PT: AXN MOVIES HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95338
+#EXTINF:-1 channelID="x-ID.1195" tvg-chno="1195" tvg-id="1195" group-title="TV",PT: TVCINE TOP HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95339
+#EXTINF:-1 channelID="x-ID.1196" tvg-chno="1196" tvg-id="1196" group-title="TV",PT: TVCINE EDITION HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95340
+#EXTINF:-1 channelID="x-ID.1197" tvg-chno="1197" tvg-id="1197" group-title="TV",PT: TVCINE EMOTION HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95341
+#EXTINF:-1 channelID="x-ID.1198" tvg-chno="1198" tvg-id="1198" group-title="TV",PT: TVCINE ACTION HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95342
+#EXTINF:-1 channelID="x-ID.1199" tvg-chno="1199" tvg-id="1199" group-title="TV",PT: TVCINE EDITION
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95343
+#EXTINF:-1 channelID="x-ID.1200" tvg-chno="1200" tvg-id="1200" group-title="TV",PT: TVCINE ACTION
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95344
+#EXTINF:-1 channelID="x-ID.1201" tvg-chno="1201" tvg-id="1201" group-title="TV",PT: FOX HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95345
+#EXTINF:-1 channelID="x-ID.1202" tvg-chno="1202" tvg-id="1202" group-title="TV",PT: FOX MOVIES
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95346
+#EXTINF:-1 channelID="x-ID.1203" tvg-chno="1203" tvg-id="1203" group-title="TV",PT: FOX COMEDY
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95347
+#EXTINF:-1 channelID="x-ID.1204" tvg-chno="1204" tvg-id="1204" group-title="TV",PT: FOX CRIME HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95348
+#EXTINF:-1 channelID="x-ID.1205" tvg-chno="1205" tvg-id="1205" group-title="TV",PT: FOX LIFE HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95349
+#EXTINF:-1 channelID="x-ID.1206" tvg-chno="1206" tvg-id="1206" group-title="TV",PT: SYFY
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95350
+#EXTINF:-1 channelID="x-ID.1207" tvg-chno="1207" tvg-id="1207" group-title="TV",PT: NOS STUDIO HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95351
+#EXTINF:-1 channelID="x-ID.1208" tvg-chno="1208" tvg-id="1208" group-title="TV",PT: NOS STUDIOS HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95352
+#EXTINF:-1 channelID="x-ID.1209" tvg-chno="1209" tvg-id="1209" group-title="TV",PT: GLOBO HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95354
+#EXTINF:-1 channelID="x-ID.1210" tvg-chno="1210" tvg-id="1210" group-title="TV",PT: GLOBO PREMIUM
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95355
+#EXTINF:-1 channelID="x-ID.1211" tvg-chno="1211" tvg-id="1211" group-title="TV",PT: TV GALICIA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95356
+#EXTINF:-1 channelID="x-ID.1212" tvg-chno="1212" tvg-id="1212" group-title="TV",PT: CNN
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95357
+#EXTINF:-1 channelID="x-ID.1213" tvg-chno="1213" tvg-id="1213" group-title="TV",PT: SKY NEWS
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95358
+#EXTINF:-1 channelID="x-ID.1214" tvg-chno="1214" tvg-id="1214" group-title="TV",PT: CNBC
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95359
+#EXTINF:-1 channelID="x-ID.1215" tvg-chno="1215" tvg-id="1215" group-title="TV",PT: FRANCE 24 (I)
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95360
+#EXTINF:-1 channelID="x-ID.1216" tvg-chno="1216" tvg-id="1216" group-title="TV",PT: EURONEWS
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95361
+#EXTINF:-1 channelID="x-ID.1217" tvg-chno="1217" tvg-id="1217" group-title="TV",PT: TV5 MONDE
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95362
+#EXTINF:-1 channelID="x-ID.1218" tvg-chno="1218" tvg-id="1218" group-title="TV",PT: BBC WORLD NEWS
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95363
+#EXTINF:-1 channelID="x-ID.1219" tvg-chno="1219" tvg-id="1219" group-title="TV",PT: CBS REALITY
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95364
+#EXTINF:-1 channelID="x-ID.1220" tvg-chno="1220" tvg-id="1220" group-title="TV",PT: BLOOMBERG
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95365
+#EXTINF:-1 channelID="x-ID.1221" tvg-chno="1221" tvg-id="1221" group-title="TV",PT: FTV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95366
+#EXTINF:-1 channelID="x-ID.1222" tvg-chno="1222" tvg-id="1222" group-title="TV",PT: CANACAO NOVA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95367
+#EXTINF:-1 channelID="x-ID.1223" tvg-chno="1223" tvg-id="1223" group-title="TV",PT: FOX NEWS
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95368
+#EXTINF:-1 channelID="x-ID.1224" tvg-chno="1224" tvg-id="1224" group-title="TV",PT: TRACE URBAN
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95370
+#EXTINF:-1 channelID="x-ID.1225" tvg-chno="1225" tvg-id="1225" group-title="TV",PT: TRACE TOCA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95371
+#EXTINF:-1 channelID="x-ID.1226" tvg-chno="1226" tvg-id="1226" group-title="TV",PT: VH1
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95372
+#EXTINF:-1 channelID="x-ID.1227" tvg-chno="1227" tvg-id="1227" group-title="TV",PT: AFRO MUSIC
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95374
+#EXTINF:-1 channelID="x-ID.1228" tvg-chno="1228" tvg-id="1228" group-title="TV",PT: MTV PORTUGAL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95375
+#EXTINF:-1 channelID="x-ID.1229" tvg-chno="1229" tvg-id="1229" group-title="TV",PT: MCM POP
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95376
+#EXTINF:-1 channelID="x-ID.1230" tvg-chno="1230" tvg-id="1230" group-title="TV",PT: MEZZO
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95377
+#EXTINF:-1 channelID="x-ID.1231" tvg-chno="1231" tvg-id="1231" group-title="TV",PT: HOLLYWOOD HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95379
+#EXTINF:-1 channelID="x-ID.1232" tvg-chno="1232" tvg-id="1232" group-title="TV",PT: HOLLYWOOD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95380
+#EXTINF:-1 channelID="x-ID.1233" tvg-chno="1233" tvg-id="1233" group-title="TV",PT: CINEMUNDO
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95381
+#EXTINF:-1 channelID="x-ID.1234" tvg-chno="1234" tvg-id="1234" group-title="TV",PT: TV SERIES HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95382
+#EXTINF:-1 channelID="x-ID.1235" tvg-chno="1235" tvg-id="1235" group-title="TV",PT: TV SERIES
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95383
+#EXTINF:-1 channelID="x-ID.1236" tvg-chno="1236" tvg-id="1236" group-title="TV",PT: DISCOVERY CHANNEL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95385
+#EXTINF:-1 channelID="x-ID.1237" tvg-chno="1237" tvg-id="1237" group-title="TV",PT: NAT GEO GEOGRAPHIC HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95387
+#EXTINF:-1 channelID="x-ID.1238" tvg-chno="1238" tvg-id="1238" group-title="TV",PT: NAT GEO WILD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95388
+#EXTINF:-1 channelID="x-ID.1239" tvg-chno="1239" tvg-id="1239" group-title="TV",PT: CRIME INVESTIGATION
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95389
+#EXTINF:-1 channelID="x-ID.1240" tvg-chno="1240" tvg-id="1240" group-title="TV",PT: TRAVEL CHANNEL HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95390
+#EXTINF:-1 channelID="x-ID.1241" tvg-chno="1241" tvg-id="1241" group-title="TV",PT: ODISSEIA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95391
+#EXTINF:-1 channelID="x-ID.1242" tvg-chno="1242" tvg-id="1242" group-title="TV",PT: 24 KITCHEN HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95392
+#EXTINF:-1 channelID="x-ID.1243" tvg-chno="1243" tvg-id="1243" group-title="TV",PT: HISTORIA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95393
+#EXTINF:-1 channelID="x-ID.1244" tvg-chno="1244" tvg-id="1244" group-title="TV",PT: TLC
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95394
+#EXTINF:-1 channelID="x-ID.1245" tvg-chno="1245" tvg-id="1245" group-title="TV",PT: BTV 1 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95396
+#EXTINF:-1 channelID="x-ID.1246" tvg-chno="1246" tvg-id="1246" group-title="TV",PT: A BOLA TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95397
+#EXTINF:-1 channelID="x-ID.1247" tvg-chno="1247" tvg-id="1247" group-title="TV",PT: KOMBAT SPORT
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95398
+#EXTINF:-1 channelID="x-ID.1248" tvg-chno="1248" tvg-id="1248" group-title="TV",PT: SPORTING TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95399
+#EXTINF:-1 channelID="x-ID.1249" tvg-chno="1249" tvg-id="1249" group-title="TV",PT: FUEL TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95400
+#EXTINF:-1 channelID="x-ID.1250" tvg-chno="1250" tvg-id="1250" group-title="TV",PT: EUROSPORT 1 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95401
+#EXTINF:-1 channelID="x-ID.1251" tvg-chno="1251" tvg-id="1251" group-title="TV",PT: EUROSPORT 1
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95402
+#EXTINF:-1 channelID="x-ID.1252" tvg-chno="1252" tvg-id="1252" group-title="TV",PT: EUROSPORT 2
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95403
+#EXTINF:-1 channelID="x-ID.1253" tvg-chno="1253" tvg-id="1253" group-title="TV",PT: PFC
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95404
+#EXTINF:-1 channelID="x-ID.1254" tvg-chno="1254" tvg-id="1254" group-title="TV",PT: CMTV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95405
+#EXTINF:-1 channelID="x-ID.1255" tvg-chno="1255" tvg-id="1255" group-title="TV",PT: TOROS TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95406
+#EXTINF:-1 channelID="x-ID.1256" tvg-chno="1256" tvg-id="1256" group-title="TV",PT: SPORT TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95407
+#EXTINF:-1 channelID="x-ID.1257" tvg-chno="1257" tvg-id="1257" group-title="TV",PT: SPORT TV 1 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95408
+#EXTINF:-1 channelID="x-ID.1258" tvg-chno="1258" tvg-id="1258" group-title="TV",PT: SPORT TV 1 HD NOS
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95409
+#EXTINF:-1 channelID="x-ID.1259" tvg-chno="1259" tvg-id="1259" group-title="TV",PT: SPORT TV 1
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95410
+#EXTINF:-1 channelID="x-ID.1260" tvg-chno="1260" tvg-id="1260" group-title="TV",PT: SPORT TV 2 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95411
+#EXTINF:-1 channelID="x-ID.1261" tvg-chno="1261" tvg-id="1261" group-title="TV",PT: SPORT TV 3 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95413
+#EXTINF:-1 channelID="x-ID.1262" tvg-chno="1262" tvg-id="1262" group-title="TV",PT: SPORT TV 3
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95414
+#EXTINF:-1 channelID="x-ID.1263" tvg-chno="1263" tvg-id="1263" group-title="TV",PT: SPORT TV 4
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95415
+#EXTINF:-1 channelID="x-ID.1264" tvg-chno="1264" tvg-id="1264" group-title="TV",PT: SPORT TV 5
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95416
+#EXTINF:-1 channelID="x-ID.1265" tvg-chno="1265" tvg-id="1265" group-title="TV",|PT| SPORT TV 6 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/200526
+#EXTINF:-1 channelID="x-ID.1266" tvg-chno="1266" tvg-id="1266" group-title="TV",|PT| Benfica TV 1 FHD
+http://mohdtv.com:8880/voby3949/54128273/3239
+#EXTINF:-1 channelID="x-ID.1267" tvg-chno="1267" tvg-id="1267" group-title="TV",PT: NBA TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95417
+#EXTINF:-1 channelID="x-ID.1268" tvg-chno="1268" tvg-id="1268" group-title="TV",PT: ELEVEN SPORTS 1 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95418
+#EXTINF:-1 channelID="x-ID.1269" tvg-chno="1269" tvg-id="1269" group-title="TV",PT: ELEVEN SPORTS 2 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95419
+#EXTINF:-1 channelID="x-ID.1270" tvg-chno="1270" tvg-id="1270" group-title="TV",PT: ELEVEN SPORTS 3 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95420
+#EXTINF:-1 channelID="x-ID.1271" tvg-chno="1271" tvg-id="1271" group-title="TV",PT: ELEVEN SPORTS 4 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95421
+#EXTINF:-1 channelID="x-ID.1272" tvg-chno="1272" tvg-id="1272" group-title="TV",PT: ELEVEN SPORTS 5 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95422
+#EXTINF:-1 channelID="x-ID.1273" tvg-chno="1273" tvg-id="1273" group-title="TV",PT: ELEVEN SPORTS 6 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95423
+#EXTINF:-1 channelID="x-ID.1274" tvg-chno="1274" tvg-id="1274" group-title="TV",PT: MOTORVISION
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95424
+#EXTINF:-1 channelID="x-ID.1275" tvg-chno="1275" tvg-id="1275" group-title="TV",|PT| CANAL 11 HD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/200527
+#EXTINF:-1 channelID="x-ID.1276" tvg-chno="1276" tvg-id="1276" group-title="TV",PT: CANAL 11
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/95426
+#EXTINF:-1 channelID="x-ID.1277" tvg-chno="1277" tvg-id="1277" group-title="TV",|PT-SD| RTP 1
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151818
+#EXTINF:-1 channelID="x-ID.1278" tvg-chno="1278" tvg-id="1278" group-title="TV",|PT-SD| RTP 2
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151819
+#EXTINF:-1 channelID="x-ID.1279" tvg-chno="1279" tvg-id="1279" group-title="TV",|PT-SD| RTP 3
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151820
+#EXTINF:-1 channelID="x-ID.1280" tvg-chno="1280" tvg-id="1280" group-title="TV",|PT-SD| TVI 24
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151821
+#EXTINF:-1 channelID="x-ID.1281" tvg-chno="1281" tvg-id="1281" group-title="TV",|PT-SD| TVI FICCAO
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151822
+#EXTINF:-1 channelID="x-ID.1282" tvg-chno="1282" tvg-id="1282" group-title="TV",|PT-SD| TVI
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151823
+#EXTINF:-1 channelID="x-ID.1283" tvg-chno="1283" tvg-id="1283" group-title="TV",|PT-SD| TVI REALITY
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151824
+#EXTINF:-1 channelID="x-ID.1284" tvg-chno="1284" tvg-id="1284" group-title="TV",|PT-SD| SIC
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151825
+#EXTINF:-1 channelID="x-ID.1285" tvg-chno="1285" tvg-id="1285" group-title="TV",|PT-SD| SIC MULHER
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151826
+#EXTINF:-1 channelID="x-ID.1286" tvg-chno="1286" tvg-id="1286" group-title="TV",|PT-SD| SIC NOTICIAS
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151827
+#EXTINF:-1 channelID="x-ID.1287" tvg-chno="1287" tvg-id="1287" group-title="TV",|PT-SD| SIC RADICAL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151828
+#EXTINF:-1 channelID="x-ID.1288" tvg-chno="1288" tvg-id="1288" group-title="TV",|PT-SD| AMC
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151829
+#EXTINF:-1 channelID="x-ID.1289" tvg-chno="1289" tvg-id="1289" group-title="TV",|PT-SD| SYFY
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151830
+#EXTINF:-1 channelID="x-ID.1290" tvg-chno="1290" tvg-id="1290" group-title="TV",|PT-SD| TLC
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151831
+#EXTINF:-1 channelID="x-ID.1291" tvg-chno="1291" tvg-id="1291" group-title="TV",|PT-SD| GLOBO
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151832
+#EXTINF:-1 channelID="x-ID.1292" tvg-chno="1292" tvg-id="1292" group-title="TV",|PT-SD| CACA E PESCA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151833
+#EXTINF:-1 channelID="x-ID.1293" tvg-chno="1293" tvg-id="1293" group-title="TV",|PT-SD| RTP MEMORIA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151834
+#EXTINF:-1 channelID="x-ID.1294" tvg-chno="1294" tvg-id="1294" group-title="TV",|PT-SD| MTV PORTUGAL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151835
+#EXTINF:-1 channelID="x-ID.1295" tvg-chno="1295" tvg-id="1295" group-title="TV",|PT-SD| PORTO CANAL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151836
+#EXTINF:-1 channelID="x-ID.1296" tvg-chno="1296" tvg-id="1296" group-title="TV",|PT-SD| DISNEY JUNIOR
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151838
+#EXTINF:-1 channelID="x-ID.1297" tvg-chno="1297" tvg-id="1297" group-title="TV",|PT-SD| NICK JR
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151839
+#EXTINF:-1 channelID="x-ID.1298" tvg-chno="1298" tvg-id="1298" group-title="TV",|PT-SD| NICKELODEON
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151840
+#EXTINF:-1 channelID="x-ID.1299" tvg-chno="1299" tvg-id="1299" group-title="TV",|PT-SD| BABY TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151841
+#EXTINF:-1 channelID="x-ID.1300" tvg-chno="1300" tvg-id="1300" group-title="TV",|PT-SD| CANAL PANDA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151842
+#EXTINF:-1 channelID="x-ID.1301" tvg-chno="1301" tvg-id="1301" group-title="TV",|PT-SD| PANDA BIGGS
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151843
+#EXTINF:-1 channelID="x-ID.1302" tvg-chno="1302" tvg-id="1302" group-title="TV",|PT-SD| ELEVEN SPORTS 1
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151845
+#EXTINF:-1 channelID="x-ID.1303" tvg-chno="1303" tvg-id="1303" group-title="TV",|PT-SD| ELEVEN SPORTS 2
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151846
+#EXTINF:-1 channelID="x-ID.1304" tvg-chno="1304" tvg-id="1304" group-title="TV",|PT-SD| ELEVEN SPORTS 3
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151847
+#EXTINF:-1 channelID="x-ID.1305" tvg-chno="1305" tvg-id="1305" group-title="TV",|PT-SD| ELEVEN SPORTS 4
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151848
+#EXTINF:-1 channelID="x-ID.1306" tvg-chno="1306" tvg-id="1306" group-title="TV",|PT-SD| TV RECORD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151849
+#EXTINF:-1 channelID="x-ID.1307" tvg-chno="1307" tvg-id="1307" group-title="TV",|PT-SD| ELEVEN SPORTS 5
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151850
+#EXTINF:-1 channelID="x-ID.1308" tvg-chno="1308" tvg-id="1308" group-title="TV",|PT-SD| EUROSPORT 1
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151851
+#EXTINF:-1 channelID="x-ID.1309" tvg-chno="1309" tvg-id="1309" group-title="TV",|PT-SD| EUROSPORT 2
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151852
+#EXTINF:-1 channelID="x-ID.1310" tvg-chno="1310" tvg-id="1310" group-title="TV",|PT-SD| SPORT TV +
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151853
+#EXTINF:-1 channelID="x-ID.1311" tvg-chno="1311" tvg-id="1311" group-title="TV",|PT-SD| SPORT TV 1
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151854
+#EXTINF:-1 channelID="x-ID.1312" tvg-chno="1312" tvg-id="1312" group-title="TV",|PT-SD| SPORT TV 2
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151855
+#EXTINF:-1 channelID="x-ID.1313" tvg-chno="1313" tvg-id="1313" group-title="TV",|PT-SD| SPORT TV 3
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151856
+#EXTINF:-1 channelID="x-ID.1314" tvg-chno="1314" tvg-id="1314" group-title="TV",|PT-SD| SPORT TV 4
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151857
+#EXTINF:-1 channelID="x-ID.1315" tvg-chno="1315" tvg-id="1315" group-title="TV",|PT-SD| SPORT TV 5
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151858
+#EXTINF:-1 channelID="x-ID.1316" tvg-chno="1316" tvg-id="1316" group-title="TV",|PT-SD| SPORT TV 6
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151859
+#EXTINF:-1 channelID="x-ID.1317" tvg-chno="1317" tvg-id="1317" group-title="TV",|PT-SD| SPORTING TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151860
+#EXTINF:-1 channelID="x-ID.1318" tvg-chno="1318" tvg-id="1318" group-title="TV",|PT-SD| A BOLA TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151862
+#EXTINF:-1 channelID="x-ID.1319" tvg-chno="1319" tvg-id="1319" group-title="TV",|PT-SD| CM TV
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151863
+#EXTINF:-1 channelID="x-ID.1320" tvg-chno="1320" tvg-id="1320" group-title="TV",|PT-SD| CANAL 11
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151864
+#EXTINF:-1 channelID="x-ID.1321" tvg-chno="1321" tvg-id="1321" group-title="TV",|PT-SD| 24 KITCHEN
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151866
+#EXTINF:-1 channelID="x-ID.1322" tvg-chno="1322" tvg-id="1322" group-title="TV",|PT-SD| DISCOVERY CHANNEL
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151867
+#EXTINF:-1 channelID="x-ID.1323" tvg-chno="1323" tvg-id="1323" group-title="TV",|PT-SD| NATIONAL GEOGRAFIC WILD
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151868
+#EXTINF:-1 channelID="x-ID.1324" tvg-chno="1324" tvg-id="1324" group-title="TV",|PT-SD| NATIONAL GEOGRAPHIC
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151869
+#EXTINF:-1 channelID="x-ID.1325" tvg-chno="1325" tvg-id="1325" group-title="TV",|PT-SD| HISTORIA
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151871
+#EXTINF:-1 channelID="x-ID.1326" tvg-chno="1326" tvg-id="1326" group-title="TV",|PT-SD| TVCINE ACTION
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151872
+#EXTINF:-1 channelID="x-ID.1327" tvg-chno="1327" tvg-id="1327" group-title="TV",|PT-SD| TVCINE TOP
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151873
+#EXTINF:-1 channelID="x-ID.1328" tvg-chno="1328" tvg-id="1328" group-title="TV",|PT-SD| AXN
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151874
+#EXTINF:-1 channelID="x-ID.1329" tvg-chno="1329" tvg-id="1329" group-title="TV",|PT-SD| AXN MOVIES
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151875
+#EXTINF:-1 channelID="x-ID.1330" tvg-chno="1330" tvg-id="1330" group-title="TV",|PT-SD| AXN WHITE
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151876
+#EXTINF:-1 channelID="x-ID.1331" tvg-chno="1331" tvg-id="1331" group-title="TV",|PT-SD| FOX COMEDY
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151877
+#EXTINF:-1 channelID="x-ID.1332" tvg-chno="1332" tvg-id="1332" group-title="TV",|PT-SD| FOX CRIME
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151878
+#EXTINF:-1 channelID="x-ID.1333" tvg-chno="1333" tvg-id="1333" group-title="TV",|PT-SD| FOX LIFE
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151879
+#EXTINF:-1 channelID="x-ID.1334" tvg-chno="1334" tvg-id="1334" group-title="TV",|PT-SD| FOX
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151880
+#EXTINF:-1 channelID="x-ID.1335" tvg-chno="1335" tvg-id="1335" group-title="TV",|PT-SD| FOX MOVIES
+http://sansat.net:88/MRYKBE1UAO/7HZENYJUEN/151881
 
-#EXTINF:-1 channelID="x-ID.1151" tvg-chno="1151" tvg-id="1151" group-title="TV",,PT - 24 Kitchen HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61967
-#EXTINF:-1 channelID="x-ID.1152" tvg-chno="1152" tvg-id="1152" group-title="TV",,PT - A Bola TV
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61968
-#EXTINF:-1 channelID="x-ID.1153" tvg-chno="1153" tvg-id="1153" group-title="TV",,PT - A&E TV
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61969
-#EXTINF:-1 channelID="x-ID.1154" tvg-chno="1154" tvg-id="1154" group-title="TV",,PT - Afro Music
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61970
-#EXTINF:-1 channelID="x-ID.1155" tvg-chno="1155" tvg-id="1155" group-title="TV",,PT - AMC
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61971
-#EXTINF:-1 channelID="x-ID.1156" tvg-chno="1156" tvg-id="1156" group-title="TV",,PT - ARTV HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61973
-#EXTINF:-1 channelID="x-ID.1157" tvg-chno="1157" tvg-id="1157" group-title="TV",,PT - AXN BLACK HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61974
-#EXTINF:-1 channelID="x-ID.1158" tvg-chno="1158" tvg-id="1158" group-title="TV",,PT - AXN Movies HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61975
-#EXTINF:-1 channelID="x-ID.1159" tvg-chno="1159" tvg-id="1159" group-title="TV",,PT - AXN HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61977
-#EXTINF:-1 channelID="x-ID.1160" tvg-chno="1160" tvg-id="1160" group-title="TV",,PT - AXN WHITE HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61979
-#EXTINF:-1 channelID="x-ID.1161" tvg-chno="1161" tvg-id="1161" group-title="TV",,PT -- BABY TV
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61980
-#EXTINF:-1 channelID="x-ID.1162" tvg-chno="1162" tvg-id="1162" group-title="TV",,PT - Benfica TV HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61981
-#EXTINF:-1 channelID="x-ID.1163" tvg-chno="1163" tvg-id="1163" group-title="TV",,PT - Biggs
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61982
-#EXTINF:-1 channelID="x-ID.1164" tvg-chno="1164" tvg-id="1164" group-title="TV",,PT - Blaze
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61983
-#EXTINF:-1 channelID="x-ID.1165" tvg-chno="1165" tvg-id="1165" group-title="TV",,PT - BTV HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61984
-#EXTINF:-1 channelID="x-ID.1166" tvg-chno="1166" tvg-id="1166" group-title="TV",,PT - Canal 11 FHD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61985
-#EXTINF:-1 channelID="x-ID.1167" tvg-chno="1167" tvg-id="1167" group-title="TV",,PT - Canal 180
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61986
-#EXTINF:-1 channelID="x-ID.1168" tvg-chno="1168" tvg-id="1168" group-title="TV",,PT - Canal de Historia
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61987
-#EXTINF:-1 channelID="x-ID.1169" tvg-chno="1169" tvg-id="1169" group-title="TV",,PT - Canal Panda
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61988
-#EXTINF:-1 channelID="x-ID.1170" tvg-chno="1170" tvg-id="1170" group-title="TV",,PT - Canal Q
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61989
-#EXTINF:-1 channelID="x-ID.1171" tvg-chno="1171" tvg-id="1171" group-title="TV",,PT - CAÇÃVISION
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61990
-#EXTINF:-1 channelID="x-ID.1172" tvg-chno="1172" tvg-id="1172" group-title="TV",,PT - Caçae Pesca
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61991
-#EXTINF:-1 channelID="x-ID.1173" tvg-chno="1173" tvg-id="1173" group-title="TV",,PT - Cinemundo
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61992
-#EXTINF:-1 channelID="x-ID.1174" tvg-chno="1174" tvg-id="1174" group-title="TV",,PT - CM TV
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61993
-#EXTINF:-1 channelID="x-ID.1175" tvg-chno="1175" tvg-id="1175" group-title="TV",,PT - CMTV HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61994
-#EXTINF:-1 channelID="x-ID.1176" tvg-chno="1176" tvg-id="1176" group-title="TV",,PT - Crime & Investigation
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61995
-#EXTINF:-1 channelID="x-ID.1177" tvg-chno="1177" tvg-id="1177" group-title="TV",,PT - Discovery Channel
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61996
-#EXTINF:-1 channelID="x-ID.1178" tvg-chno="1178" tvg-id="1178" group-title="TV",,PT - Discovery Showcase HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61998
-#EXTINF:-1 channelID="x-ID.1179" tvg-chno="1179" tvg-id="1179" group-title="TV",,PT - Disney Channel
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/61999
-#EXTINF:-1 channelID="x-ID.1180" tvg-chno="1180" tvg-id="1180" group-title="TV",,PT - Disney Junior
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62000
-#EXTINF:-1 channelID="x-ID.1181" tvg-chno="1181" tvg-id="1181" group-title="TV",,PT - DOG HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62001
-#EXTINF:-1 channelID="x-ID.1182" tvg-chno="1182" tvg-id="1182" group-title="TV",,PT - E! Entertainment
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62002
-#EXTINF:-1 channelID="x-ID.1183" tvg-chno="1183" tvg-id="1183" group-title="TV",,PT - EuroNews
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62003
-#EXTINF:-1 channelID="x-ID.1184" tvg-chno="1184" tvg-id="1184" group-title="TV",,PT - EUROSPORT 1 HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62004
-#EXTINF:-1 channelID="x-ID.1185" tvg-chno="1185" tvg-id="1185" group-title="TV",,PT - EUROSPORT 2
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62005
-#EXTINF:-1 channelID="x-ID.1186" tvg-chno="1186" tvg-id="1186" group-title="TV",,PT - EURO CHANNEL
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62006
-#EXTINF:-1 channelID="x-ID.1187" tvg-chno="1187" tvg-id="1187" group-title="TV",,PT - Fashion TV
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62007
-#EXTINF:-1 channelID="x-ID.1188" tvg-chno="1188" tvg-id="1188" group-title="TV",,PT - FIGHT NETWORK HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62008
-#EXTINF:-1 channelID="x-ID.1189" tvg-chno="1189" tvg-id="1189" group-title="TV",,PT - Fight BOX HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62009
-#EXTINF:-1 channelID="x-ID.1190" tvg-chno="1190" tvg-id="1190" group-title="TV",,PT - Food Network
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62011
-#EXTINF:-1 channelID="x-ID.1191" tvg-chno="1191" tvg-id="1191" group-title="TV",,PT - FOX Comedy
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62012
-#EXTINF:-1 channelID="x-ID.1192" tvg-chno="1192" tvg-id="1192" group-title="TV",,PT - FOX CRIME HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62014
-#EXTINF:-1 channelID="x-ID.1193" tvg-chno="1193" tvg-id="1193" group-title="TV",,PT - FOX HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62017
-#EXTINF:-1 channelID="x-ID.1194" tvg-chno="1194" tvg-id="1194" group-title="TV",,PT - FOX LIFE HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62019
-#EXTINF:-1 channelID="x-ID.1195" tvg-chno="1195" tvg-id="1195" group-title="TV",,PT - FOX Movies
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62020
-#EXTINF:-1 channelID="x-ID.1196" tvg-chno="1196" tvg-id="1196" group-title="TV",,PT - FOX Movies HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62021
-#EXTINF:-1 channelID="x-ID.1197" tvg-chno="1197" tvg-id="1197" group-title="TV",,PT - FOX News
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62022
-#EXTINF:-1 channelID="x-ID.1198" tvg-chno="1198" tvg-id="1198" group-title="TV",,PT - France 24
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62023
-#EXTINF:-1 channelID="x-ID.1199" tvg-chno="1199" tvg-id="1199" group-title="TV",,PT - Fuel TV
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62024
-#EXTINF:-1 channelID="x-ID.1200" tvg-chno="1200" tvg-id="1200" group-title="TV",,PT - GLOBO PREMIUM
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62026
-#EXTINF:-1 channelID="x-ID.1201" tvg-chno="1201" tvg-id="1201" group-title="TV",,PT - Hollywood HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62027
-#EXTINF:-1 channelID="x-ID.1202" tvg-chno="1202" tvg-id="1202" group-title="TV",,PT - JIM JAM
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62028
-#EXTINF:-1 channelID="x-ID.1203" tvg-chno="1203" tvg-id="1203" group-title="TV",,PT - Kuriakos Kids
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62029
-#EXTINF:-1 channelID="x-ID.1204" tvg-chno="1204" tvg-id="1204" group-title="TV",,PT - LOCALVISAO TV HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62031
-#EXTINF:-1 channelID="x-ID.1205" tvg-chno="1205" tvg-id="1205" group-title="TV",,PT - MCM TOP
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62033
-#EXTINF:-1 channelID="x-ID.1206" tvg-chno="1206" tvg-id="1206" group-title="TV",,PT - Motorvision
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62035
-#EXTINF:-1 channelID="x-ID.1207" tvg-chno="1207" tvg-id="1207" group-title="TV",,PT - MTV
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62036
-#EXTINF:-1 channelID="x-ID.1208" tvg-chno="1208" tvg-id="1208" group-title="TV",,PT - Nat Geo Wild
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62040
-#EXTINF:-1 channelID="x-ID.1209" tvg-chno="1209" tvg-id="1209" group-title="TV",,PT - NATIONAL GEOGRAPHIC HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62041
-#EXTINF:-1 channelID="x-ID.1210" tvg-chno="1210" tvg-id="1210" group-title="TV",,PT - NBA HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62042
-#EXTINF:-1 channelID="x-ID.1211" tvg-chno="1211" tvg-id="1211" group-title="TV",,PT - Nickelodeon
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62043
-#EXTINF:-1 channelID="x-ID.1212" tvg-chno="1212" tvg-id="1212" group-title="TV",,PT - NOS STUDIOS HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62044
-#EXTINF:-1 channelID="x-ID.1213" tvg-chno="1213" tvg-id="1213" group-title="TV",,PT - ODISSEIA
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62046
-#EXTINF:-1 channelID="x-ID.1214" tvg-chno="1214" tvg-id="1214" group-title="TV",,PT - PANDA BIGGS
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62048
-#EXTINF:-1 channelID="x-ID.1215" tvg-chno="1215" tvg-id="1215" group-title="TV",,PT - PFC
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62049
-#EXTINF:-1 channelID="x-ID.1216" tvg-chno="1216" tvg-id="1216" group-title="TV",,PT - Porto Canal
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62050
-#EXTINF:-1 channelID="x-ID.1217" tvg-chno="1217" tvg-id="1217" group-title="TV",,PT - RTP 1
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62052
-#EXTINF:-1 channelID="x-ID.1218" tvg-chno="1218" tvg-id="1218" group-title="TV",,PT - RTP 2
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62053
-#EXTINF:-1 channelID="x-ID.1219" tvg-chno="1219" tvg-id="1219" group-title="TV",,PT - RTP 3
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62055
-#EXTINF:-1 channelID="x-ID.1220" tvg-chno="1220" tvg-id="1220" group-title="TV",,PT - RTP Africa
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62056
-#EXTINF:-1 channelID="x-ID.1221" tvg-chno="1221" tvg-id="1221" group-title="TV",,PT - RTP Açores
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62057
-#EXTINF:-1 channelID="x-ID.1222" tvg-chno="1222" tvg-id="1222" group-title="TV",,PT - RTP MADEIRA
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62058
-#EXTINF:-1 channelID="x-ID.1223" tvg-chno="1223" tvg-id="1223" group-title="TV",,PT - RTP MEMORIA
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62059
-#EXTINF:-1 channelID="x-ID.1224" tvg-chno="1224" tvg-id="1224" group-title="TV",,PT - SANTUARIO DE FATIMA HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62060
-#EXTINF:-1 channelID="x-ID.1225" tvg-chno="1225" tvg-id="1225" group-title="TV",,PT - Sic Caras
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62062
-#EXTINF:-1 channelID="x-ID.1226" tvg-chno="1226" tvg-id="1226" group-title="TV",,PT - Sic Kids
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62064
-#EXTINF:-1 channelID="x-ID.1227" tvg-chno="1227" tvg-id="1227" group-title="TV",,PT - SIC MULHER
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62065
-#EXTINF:-1 channelID="x-ID.1228" tvg-chno="1228" tvg-id="1228" group-title="TV",,PT - SIC NOTICIAS
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62066
-#EXTINF:-1 channelID="x-ID.1229" tvg-chno="1229" tvg-id="1229" group-title="TV",,PT - SIC
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62068
-#EXTINF:-1 channelID="x-ID.1230" tvg-chno="1230" tvg-id="1230" group-title="TV",,PT - SKY News
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62070
-#EXTINF:-1 channelID="x-ID.1231" tvg-chno="1231" tvg-id="1231" group-title="TV",,PT - SPORT TV 1 HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62071
-#EXTINF:-1 channelID="x-ID.1232" tvg-chno="1232" tvg-id="1232" group-title="TV",,PT - SPORT TV 4 HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62074
-#EXTINF:-1 channelID="x-ID.1233" tvg-chno="1233" tvg-id="1233" group-title="TV",,PT - Sport TV NBA HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62076
-#EXTINF:-1 channelID="x-ID.1234" tvg-chno="1234" tvg-id="1234" group-title="TV",,PT - SPORT TV+HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62077
-#EXTINF:-1 channelID="x-ID.1235" tvg-chno="1235" tvg-id="1235" group-title="TV",,PT - Sport TV 2
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62079
-#EXTINF:-1 channelID="x-ID.1236" tvg-chno="1236" tvg-id="1236" group-title="TV",,PT - Sport TV 5
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62082
-#EXTINF:-1 channelID="x-ID.1237" tvg-chno="1237" tvg-id="1237" group-title="TV",,PT - Sporting TV HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62083
-#EXTINF:-1 channelID="x-ID.1238" tvg-chno="1238" tvg-id="1238" group-title="TV",,PT - SyFy
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62084
-#EXTINF:-1 channelID="x-ID.1239" tvg-chno="1239" tvg-id="1239" group-title="TV",,PT - TCV Cabo Verde
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62086
-#EXTINF:-1 channelID="x-ID.1240" tvg-chno="1240" tvg-id="1240" group-title="TV",,PT - TLC
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62087
-#EXTINF:-1 channelID="x-ID.1241" tvg-chno="1241" tvg-id="1241" group-title="TV",,PT - Toros TV
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62088
-#EXTINF:-1 channelID="x-ID.1242" tvg-chno="1242" tvg-id="1242" group-title="TV",,PT - TPA ANGOLA
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62089
-#EXTINF:-1 channelID="x-ID.1243" tvg-chno="1243" tvg-id="1243" group-title="TV",,PT - Travel HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62091
-#EXTINF:-1 channelID="x-ID.1244" tvg-chno="1244" tvg-id="1244" group-title="TV",,PT - TV Globo
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62096
-#EXTINF:-1 channelID="x-ID.1245" tvg-chno="1245" tvg-id="1245" group-title="TV",,PT - Tvi 24
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62105
-#EXTINF:-1 channelID="x-ID.1246" tvg-chno="1246" tvg-id="1246" group-title="TV",,PT - TVI FICCAO
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62106
-#EXTINF:-1 channelID="x-ID.1247" tvg-chno="1247" tvg-id="1247" group-title="TV",,PT - TVI HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62107
-#EXTINF:-1 channelID="x-ID.1248" tvg-chno="1248" tvg-id="1248" group-title="TV",,PT - TVI Reality
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62108
-#EXTINF:-1 channelID="x-ID.1249" tvg-chno="1249" tvg-id="1249" group-title="TV",,PT - VH1
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62109
-#EXTINF:-1 channelID="x-ID.1250" tvg-chno="1250" tvg-id="1250" group-title="TV",,PT - ZAP VIVA HD
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/62110
-#EXTINF:-1 channelID="x-ID.1251" tvg-chno="1251" tvg-id="1251" group-title="TV",,PT - SPORT TV 3 
-http://2hubs.ddns.net:25461/PierreDC/cvmDSXvb/74595
 
 
 
