@@ -1237,10 +1237,10 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 
 #EXTINF:-1 channelID="x-ID.1151" tvg-chno="1151" tvg-id="1151" group-title="TV", LOCAL - Sport TV1
-https://cdntv0800.com/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=48535430c9b185b3f10192b68cae9f02dd61e228-b36e9925f8d2c6f21f6adcc4c1e83e0c-1714320884-1714317284
+https://cdntv0800.com/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=8ef9dda131b99f128ff142aa7e9baa4a1b6c0cfc-cf8afd35135ed9e4d35b779961077725-1714324542-1714320942
 
 #EXTINF:-1 channelID="x-ID.1152" tvg-chno="1152" tvg-id="1152" group-title="TV", LOCAL - Sport TV2
-https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=286499f5a00f21fab69a7b76669ab98414a19e7a-b960af7638336bc64bfa095d9ee38196-1714321067-1714317467
+https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=90ff6343156d050352919a402e558b7cfceae66f-0cede5adf5b35092aade774cb68e18ed-1714324556-1714320956
 
 #EXTINF:-1 channelID="x-ID.1153" tvg-chno="1153" tvg-id="1153" group-title="TV", LOCAL - Sport TV3
 https://cdntv0800.com/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=13333f30a6eab8e9adf53f4b10a065886b116c64-7dccc330366d7171c4e4930b40c3027a-1714321076-1714317476
