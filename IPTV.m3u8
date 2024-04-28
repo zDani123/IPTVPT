@@ -1237,16 +1237,16 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 
 #EXTINF:-1 channelID="x-ID.1151" tvg-chno="1151" tvg-id="1151" group-title="TV", LOCAL - Sport TV1
-https://cdntv0800.com/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=eccabd0d3ff6ac9579a433080ff11b195cbfb300-dbf48468ac6a11b8b04d7d9ee35cb30d-1714327955-1714324355
+https://cdntv0800.com/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=1ebc9d4c6d367e22daeb846f9b8d32d675138a3e-02c587f44c54759efee3f7445f604484-1714331556-1714327956
 
 #EXTINF:-1 channelID="x-ID.1152" tvg-chno="1152" tvg-id="1152" group-title="TV", LOCAL - Sport TV2
-https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=7855e569bd52a7e9d51b3981ad8faca62315a1ff-611c4ad5c84f216c8bd00715ee3ebdc9-1714327971-1714324371
+https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=352e45ba4a050c87a1a621a4266e4f236802d269-6731c943bbfd74bfaad7ed9fde47f831-1714331579-1714327979
 
 #EXTINF:-1 channelID="x-ID.1153" tvg-chno="1153" tvg-id="1153" group-title="TV", LOCAL - Sport TV3
-https://cdntv0800.com/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=df20b7d0f5f853b717a997a2d24ac3fc83d0cd8c-3ea3ab2c91eee00f380e8ec86d4ee83f-1714328060-1714324460
+https://cdntv0800.com/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=80a8ac00a170e9c156022c6da26e021ed6ae4027-0b5a0d07b57250a6cc18462ee8d7cb39-1714331598-1714327998
 
 #EXTINF:-1 channelID="x-ID.1154" tvg-chno="1154" tvg-id="1154" group-title="TV", LOCAL - Sport TV4
-https://cdntv0800.com/spt4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=8d4af4ada6b81af83827370668f62fcdcd2ad26b-403836bf1c9bbc674b793e730e8d9d1f-1714328074-1714324474
+https://cdntv0800.com/spt4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=b0b072e2c8fcd28f9497af36a4d46fe9447eebda-b687a2baba541f7b3a3934780facfda2-1714331606-1714328006
 
 #EXTINF:-1 channelID="x-ID.1155" tvg-chno="1155" tvg-id="1155" group-title="TV", LOCAL - Sport TV5
 https://cdntv0800.com/spt5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=3006723264453c0458d27a6322402cddd5f22a69-6a8f4acb7de76aece534d7cce1c90370-1714328084-1714324484
@@ -1255,7 +1255,7 @@ https://cdntv0800.com/spt5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=3006
 
 
 #EXTINF:-1 channelID="x-ID.1156" tvg-chno="1156" tvg-id="1156" group-title="TV", LOCAL - Eleven1
-https://cdntv0800.com/eleven1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=18b055693261039f6dcf2a5e09c00aac47eaae01-32748d2a1f5eeb27785a5e08e8b2d1ad-1714328096-1714324496
+https://cdntv0800.com/eleven1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=bbacd121f218fd525b6b70aefae3437ad85fdaa6-d9923e17263cb8e3bd2ac3c5d89065ec-1714331556-1714327956
 
 #EXTINF:-1 channelID="x-ID.1157" tvg-chno="1157" tvg-id="1157" group-title="TV", LOCAL - Eleven2
 https://cdntv0800.com/eleven2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=6c6a6ec290fc7d8749b7a4918584a35074d7e04a-d0a5ca9cba53f9a684c2ab63b8520b37-1714321117-1714317517
@@ -1273,7 +1273,7 @@ https://server11.net/eleven5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=52
 https://server11.net/eleven6/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=f9a631c20f2a11415b2b9437d983ed56b38867fb-a197a8d8b2398f64b1240c15bfe12fb2-1713126646-1713123046
 
 #EXTINF:-1 channelID="x-ID.1162" tvg-chno="1162" tvg-id="1162" group-title="TV", LOCAL - Benfica TV
-https://cdntv0800.com/btv/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=01a4f56215d912612a69652f43b67cb26f1624ce-8d612b854aa0515371d165f1c6a16c58-1714321176-1714317576
+https://cdntv0800.com/btv/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=2f3578d314409f1835aaa476a667458a4ddec30c-4c0eb93bddd158c35162197979f9cdbe-1714331557-1714327957
 
 
 
