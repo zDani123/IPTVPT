@@ -1240,16 +1240,16 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 https://cdntv0800.com/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=32480f2e6f074dbd2059ce45e17f1eed54008433-8711f9461165bf21d51687dfc94dc3e9-1714332564-1714328964
 
 #EXTINF:-1 channelID="x-ID.1152" tvg-chno="1152" tvg-id="1152" group-title="TV", LOCAL - Sport TV2
-https://esx1.onlinehdhls.ru/esx1/eplayerSPORTTV2/tracks-v1a1/mono.m3u8
+https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=423347cd58ccd983ccd6f455614d766c148302de-68d4d1345a2c198d9310e1475bfc5b7f-1714332592-1714328992
 
 #EXTINF:-1 channelID="x-ID.1153" tvg-chno="1153" tvg-id="1153" group-title="TV", LOCAL - Sport TV3
-https://esx1.onlinehdhls.ru/esx1/eplayerSPORTTV3/tracks-v1a1/mono.m3u8
+https://cdntv0800.com/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=f3fd86587fedaa6e8d25a885cf13601ae8166a82-a65bdf75c0053b3282d7a002d27c8353-1714332608-1714329008
 
 #EXTINF:-1 channelID="x-ID.1154" tvg-chno="1154" tvg-id="1154" group-title="TV", LOCAL - Sport TV4
-https://ddy3.onlinehdhls.ru/ddy3/premium289/tracks-v1a1/mono.m3u8
+https://cdntv0800.com/spt4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=52df36f5cd443e203cf57491c2fd253a4d2389f3-9fdd9092357915e0ee17a8ccb3ebf1aa-1714332617-1714329017
 
 #EXTINF:-1 channelID="x-ID.1155" tvg-chno="1155" tvg-id="1155" group-title="TV", LOCAL - Sport TV5
-https://ddy3.onlinehdhls.ru/ddy3/premium290/tracks-v1a1/mono.m3u8
+https://cdntv0800.com/spt5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=233c407fd85d45b7fe81c7011a650d2ace6d0df3-ebd0d17b3687cf2bf979dd7a21a8f033-1714332624-1714329024
 
 ############################################################
 
