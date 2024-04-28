@@ -1240,16 +1240,16 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 https://esx1.onlinehdhls.ru/esx1/eplayerSPORTTV1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channelID="x-ID.1152" tvg-chno="1152" tvg-id="1152" group-title="TV", LOCAL - Sport TV2
-https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=352e45ba4a050c87a1a621a4266e4f236802d269-6731c943bbfd74bfaad7ed9fde47f831-1714331579-1714327979
+https://esx1.onlinehdhls.ru/esx1/eplayerSPORTTV2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channelID="x-ID.1153" tvg-chno="1153" tvg-id="1153" group-title="TV", LOCAL - Sport TV3
-https://cdntv0800.com/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=80a8ac00a170e9c156022c6da26e021ed6ae4027-0b5a0d07b57250a6cc18462ee8d7cb39-1714331598-1714327998
+https://esx1.onlinehdhls.ru/esx1/eplayerSPORTTV3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channelID="x-ID.1154" tvg-chno="1154" tvg-id="1154" group-title="TV", LOCAL - Sport TV4
-https://cdntv0800.com/spt4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=b0b072e2c8fcd28f9497af36a4d46fe9447eebda-b687a2baba541f7b3a3934780facfda2-1714331606-1714328006
+https://ddy3.onlinehdhls.ru/ddy3/premium289/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channelID="x-ID.1155" tvg-chno="1155" tvg-id="1155" group-title="TV", LOCAL - Sport TV5
-https://cdntv0800.com/spt5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=3006723264453c0458d27a6322402cddd5f22a69-6a8f4acb7de76aece534d7cce1c90370-1714328084-1714324484
+https://ddy3.onlinehdhls.ru/ddy3/premium290/tracks-v1a1/mono.m3u8
 
 ############################################################
 
@@ -1261,13 +1261,13 @@ https://cdntv0800.com/eleven1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=b
 https://cdntv0800.com/eleven2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=6c6a6ec290fc7d8749b7a4918584a35074d7e04a-d0a5ca9cba53f9a684c2ab63b8520b37-1714321117-1714317517
 
 #EXTINF:-1 channelID="x-ID.1158" tvg-chno="1158" tvg-id="1158" group-title="TV", LOCAL - Eleven3
-https://cdntv0800.com/eleven3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=8c11580dee42e2661a6e7ec7aa79e91746c964b5-a2c9a01dd3d37789d67a82fd97f6a280-1714321132-1714317532
+https://cache1.onlinehdhls.ru/cache1/eplayereleven3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channelID="x-ID.1159" tvg-chno="1159" tvg-id="1159" group-title="TV", LOCAL - Eleven4
-https://cdntv0800.com/eleven4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=a3b6d0fdb13b2392361962f433c1859931c2bdc3-fc9f853cbc7b06fc603dd1e557d5b6e7-1714321141-1714317541
+https://cache1.onlinehdhls.ru/cache1/eplayereleven4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channelID="x-ID.1160" tvg-chno="1160" tvg-id="1160" group-title="TV", LOCAL - Eleven5
-https://server11.net/eleven5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=52c263b18e0317a859ea46fea0542dab9a9c7b1b-09d530467725f4cdf4654127eead16d5-1713126638-1713123038
+https://cache1.onlinehdhls.ru/cache1/eplayereleven5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channelID="x-ID.1161" tvg-chno="1161" tvg-id="1161" group-title="TV", LOCAL - Eleven6
 https://server11.net/eleven6/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=f9a631c20f2a11415b2b9437d983ed56b38867fb-a197a8d8b2398f64b1240c15bfe12fb2-1713126646-1713123046
