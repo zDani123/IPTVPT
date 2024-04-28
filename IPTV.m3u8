@@ -1237,7 +1237,7 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
 
 #EXTINF:-1 channelID="x-ID.1151" tvg-chno="1151" tvg-id="1151" group-title="TV", LOCAL - Sport TV1
-https://cdntv0800.com/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=1ebc9d4c6d367e22daeb846f9b8d32d675138a3e-02c587f44c54759efee3f7445f604484-1714331556-1714327956
+https://esx1.onlinehdhls.ru/esx1/eplayerSPORTTV1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channelID="x-ID.1152" tvg-chno="1152" tvg-id="1152" group-title="TV", LOCAL - Sport TV2
 https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=352e45ba4a050c87a1a621a4266e4f236802d269-6731c943bbfd74bfaad7ed9fde47f831-1714331579-1714327979
