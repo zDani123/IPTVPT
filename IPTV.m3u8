@@ -22,7 +22,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 channelID="x-ID.1004" tvg-chno="1004" tvg-id="1004" group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDI0IDEwOjE2OjkgQU0maGFzaF92YWx1ZT1Jc3pnd2huUDAwblRjQVdOcEFOVElRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTM5ZmFlMmUtNDUwZC00YmEwLWJhYmQtYTdkZDc1MmI4Zjc5/
+https://video-auth4.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=481510649&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjQgNjozNTo1NSBQTSZoYXNoX3ZhbHVlPUhEcytvWEVWZTNnRnQzODJGUnliVUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jOGJkY2I3NC1hZjlhLTRlYWQtYjg4NC04NmNmNzM0ZDhiM2E=
 
 #EXTINF:-1 channelID="x-ID.1005" tvg-chno="1005" tvg-id="1005" group-title="TV" tvg-id="RTP3.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
