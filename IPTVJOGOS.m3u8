@@ -1,56 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="JOGOS", PT058:Sport TV 1 HD
-http://mohdtv.com:8880/voby5004/874289348/3192
 
-#EXTINF:-1 group-title="JOGOS", PT059:Sport TV 2 HD
-http://mohdtv.com:8880/voby5004/874289348/3191
 
-#EXTINF:-1 group-title="JOGOS", PT060:Sport TV 3 HD
-http://mohdtv.com:8880/voby5004/874289348/3190
 
-#EXTINF:-1 group-title="JOGOS", PT061:Sport TV 4 HD
-http://mohdtv.com:8880/voby5004/874289348/3189
+#EXTINF:-1 channelID="x-ID.1151" tvg-chno="1151" tvg-id="1151" group-title="TV", LOCAL - Sport TV 1
+https://cdntv0800.com/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=c4924939ec904d848643de8d8f61491175dceb1f-85409d55845922461dfec54bf228a08a-1714675929-1714672329
 
-#EXTINF:-1 group-title="JOGOS", PT062:Sport TV 5 HD
-http://mohdtv.com:8880/voby5004/874289348/3188
+#EXTINF:-1 channelID="x-ID.1152" tvg-chno="1152" tvg-id="1152" group-title="TV", LOCAL - Sport TV 2
+https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=a766400fbc54f25283b4660b0f5d43ef4c0c367a-3e089f7b144329d9d43ecb00452d0805-1714676039-1714672439
 
-#EXTINF:-1 group-title="JOGOS",PT148:SPORT TV 6 HD
-http://mohdtv.com:8880/voby3949/54128273/29342
+#EXTINF:-1 channelID="x-ID.1153" tvg-chno="1153" tvg-id="1153" group-title="TV", LOCAL - Sport TV 3
+https://cdntv0800.com/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=223d44bba9e17505dfba0f498a5b046dec82d532-0b94f3abdd052faec78a6794c6ca7ff5-1714676051-1714672451
 
-#EXTINF:-1 group-title="JOGOS", PT063:SPORT TV+
-http://mohdtv.com:8880/voby5004/874289348/3187
+#EXTINF:-1 channelID="x-ID.1154" tvg-chno="1154" tvg-id="1154" group-title="TV", LOCAL - Sport TV 4
+https://cdntv0800.com/spt4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=44d263da00acd2ea7c76fe3987cc82acc74ea125-1f0f579a4444918a743949c86e9aca64-1714321087-1714317487
 
-#EXTINF:-1 group-title="JOGOS", PT064:Sporting TV
-http://mohdtv.com:8880/voby5004/874289348/3186
+#EXTINF:-1 channelID="x-ID.1155" tvg-chno="1155" tvg-id="1155" group-title="TV", LOCAL - Sport TV 5
+https://cdntv0800.com/spt5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=826ae0fa70741c9f693c4b5fccd34a1e27331420-c833b4b0ef5c4d85d978ba9ca00d9d24-1714321095-1714317495
 
-#EXTINF:-1 group-title="JOGOS",PT156:Eleven Sports 1 SD
-http://mohdtv.com:8880/voby3949/54128273/29334
-#EXTINF:-1 group-title="JOGOS",PT157:Eleven Sports 1 FHD
-http://mohdtv.com:8880/voby3949/54128273/49966
-#EXTINF:-1 group-title="JOGOS",PT158:SPORT TV 5 FHD
-http://mohdtv.com:8880/voby3949/54128273/49958
-#EXTINF:-1 group-title="JOGOS",PT159:Eleven Sports 2 FHD
-http://mohdtv.com:8880/voby3949/54128273/49032
-#EXTINF:-1 group-title="JOGOS",PT145:Eleven Sports 3 SD
-http://mohdtv.com:8880/voby3949/54128273/29345
-#EXTINF:-1 group-title="JOGOS",PT146:Eleven Sports 4 SD
-http://mohdtv.com:8880/voby3949/54128273/29344
-#EXTINF:-1 group-title="JOGOS",PT134:Eleven Sports 2 SD
-http://mohdtv.com:8880/voby3949/54128273/29356
-#EXTINF:-1 group-title="JOGOS",PT119:Eleven Sports 3 FHD
-http://mohdtv.com:8880/voby3949/54128273/29371
-#EXTINF:-1 group-title="JOGOS",PT120:Eleven Sports 4 FHD
-http://mohdtv.com:8880/voby3949/54128273/29370
-#EXTINF:-1 group-title="JOGOS",PT121:Eleven Sports 5 SD
-http://mohdtv.com:8880/voby3949/54128273/29369
-#EXTINF:-1 group-title="JOGOS",PT122:Eleven Sports 6 FHD
-http://mohdtv.com:8880/voby3949/54128273/29368
-#EXTINF:-1 group-title="JOGOS",PT098:SPORT TV 1 FHD
-http://mohdtv.com:8880/voby3949/54128273/29392
-#EXTINF:-1 group-title="JOGOS",PT099:SPORT TV 2 FHD
-http://mohdtv.com:8880/voby3949/54128273/29391
-#EXTINF:-1 group-title="JOGOS",PT100:SPORT TV 3 FHD
-http://mohdtv.com:8880/voby3949/54128273/29390
-#EXTINF:-1 group-title="JOGOS",PT101:SPORT TV 4 FHD
-http://mohdtv.com:8880/voby3949/54128273/29389
+############################################################
+
+
+#EXTINF:-1 channelID="x-ID.1156" tvg-chno="1156" tvg-id="1156" group-title="TV", LOCAL - Eleven1
+https://cdntv0800.com/eleven1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=965a3d53e9b1f2659ae03181c2ae9dbf89917886-9a8718c4da5a1c79440f437e91fb6ee4-1714675928-1714672328
+
+#EXTINF:-1 channelID="x-ID.1157" tvg-chno="1157" tvg-id="1157" group-title="TV", LOCAL - Eleven2
+https://cdntv0800.com/eleven2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=949fabc5394cf89d277395d0cf7c881c36fd264f-38cf5ad02e8f51b6c8fd37a99f553088-1714676025-1714672425
+
+#EXTINF:-1 channelID="x-ID.1158" tvg-chno="1158" tvg-id="1158" group-title="TV", LOCAL - Eleven3
+https://cdntv0800.com/eleven3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=1e0b0e4daca03e510ef982cff49b1c820cd570c3-3846027f3d198ee0c2bb163aa26a12f4-1714422238-1714418638
+
+#EXTINF:-1 channelID="x-ID.1159" tvg-chno="1159" tvg-id="1159" group-title="TV", LOCAL - Eleven4
+https://cdntv0800.com/eleven4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=a3b6d0fdb13b2392361962f433c1859931c2bdc3-fc9f853cbc7b06fc603dd1e557d5b6e7-1714321141-1714317541
+
+#EXTINF:-1 channelID="x-ID.1160" tvg-chno="1160" tvg-id="1160" group-title="TV", LOCAL - Eleven5
+https://server11.net/eleven5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=52c263b18e0317a859ea46fea0542dab9a9c7b1b-09d530467725f4cdf4654127eead16d5-1713126638-1713123038
+
+#EXTINF:-1 channelID="x-ID.1161" tvg-chno="1161" tvg-id="1161" group-title="TV", LOCAL - Eleven6
+https://server11.net/eleven6/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=f9a631c20f2a11415b2b9437d983ed56b38867fb-a197a8d8b2398f64b1240c15bfe12fb2-1713126646-1713123046
+
+#EXTINF:-1 channelID="x-ID.1162" tvg-chno="1162" tvg-id="1162" group-title="TV", LOCAL - Benfica TV
+https://cdntv0800.com/btv/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=01a4f56215d912612a69652f43b67cb26f1624ce-8d612b854aa0515371d165f1c6a16c58-1714321176-1714317576
+
+
+
+
+
+
