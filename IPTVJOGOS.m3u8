@@ -4,10 +4,10 @@
 
 
 #EXTINF:-1 channelID="x-ID.1151" tvg-chno="1151" tvg-id="1151" group-title="TV", LOCAL - Sport TV 1
-https://cdntv0800.com/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=9a5aab05ed2d4386c1e82ddc68ca263f7a822ec1-da68d8da4c20c2be9f97e012dcc23788-1714847951-1714844351
+https://cdntv0800.com/spt1-alt/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=03215f220c016806d71fc37f2d11406c1268df52-835fca10b540c1eea2184e220014d19b-1714855412-1714851812
 
 #EXTINF:-1 channelID="x-ID.1152" tvg-chno="1152" tvg-id="1152" group-title="TV", LOCAL - Sport TV 2
-https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=b1fce51a575433226e52768d2606ec04f004f7a1-066f921151340933e25c5178766e9959-1714844822-1714841222
+https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=5ba8f89495f73f28fee6fef11725180feba9fc47-78c260a20b632bd0e48ca779bfbc690f-1714855441-1714851841
 
 #EXTINF:-1 channelID="x-ID.1153" tvg-chno="1153" tvg-id="1153" group-title="TV", LOCAL - Sport TV 3
 https://cdntv0800.com/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=060902bc44ea4a333cfc75abf4629034ee57c2a0-5bf1c592e9dc1f7fd2b5dc561f2f9cc7-1714679296-1714675696
@@ -25,7 +25,7 @@ https://cdntv0800.com/spt5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=826a
 https://cdntv0800.com/eleven1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=3a5df78326be4c28ad7f239c83d7b0af4ab6c3d3-53b0601027df46076e82f36363a5bd1c-1714844824-1714841224
 
 #EXTINF:-1 channelID="x-ID.1157" tvg-chno="1157" tvg-id="1157" group-title="TV", LOCAL - Eleven2
-https://cdntv0800.com/eleven2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=949fabc5394cf89d277395d0cf7c881c36fd264f-38cf5ad02e8f51b6c8fd37a99f553088-1714676025-1714672425
+https://cdntv0800.com/eleven2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=cca2c60a50e07fd9b78559e4c624726b5c2ff6c0-6c6582dfe490ae194915cf1468e402a4-1714855469-1714851869
 
 #EXTINF:-1 channelID="x-ID.1158" tvg-chno="1158" tvg-id="1158" group-title="TV", LOCAL - Eleven3
 https://cdntv0800.com/eleven3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=1e0b0e4daca03e510ef982cff49b1c820cd570c3-3846027f3d198ee0c2bb163aa26a12f4-1714422238-1714418638
