@@ -21,22 +21,22 @@ https://cdntv0800.com/spt5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=826a
 ############################################################
 
 
-#EXTINF:-1 channelID="x-ID.1156" tvg-chno="1156" tvg-id="1156" group-title="TV", LOCAL - Eleven1
+#EXTINF:-1 channelID="x-ID.1156" tvg-chno="1156" tvg-id="1156" group-title="TV", LOCAL - Eleven 1
 https://cdntv0800.com/eleven1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=3a5df78326be4c28ad7f239c83d7b0af4ab6c3d3-53b0601027df46076e82f36363a5bd1c-1714844824-1714841224
 
-#EXTINF:-1 channelID="x-ID.1157" tvg-chno="1157" tvg-id="1157" group-title="TV", LOCAL - Eleven2
+#EXTINF:-1 channelID="x-ID.1157" tvg-chno="1157" tvg-id="1157" group-title="TV", LOCAL - Eleven 2
 https://cdntv0800.com/eleven2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=cca2c60a50e07fd9b78559e4c624726b5c2ff6c0-6c6582dfe490ae194915cf1468e402a4-1714855469-1714851869
 
-#EXTINF:-1 channelID="x-ID.1158" tvg-chno="1158" tvg-id="1158" group-title="TV", LOCAL - Eleven3
+#EXTINF:-1 channelID="x-ID.1158" tvg-chno="1158" tvg-id="1158" group-title="TV", LOCAL - Eleven 3
 https://cdntv0800.com/eleven3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=1e0b0e4daca03e510ef982cff49b1c820cd570c3-3846027f3d198ee0c2bb163aa26a12f4-1714422238-1714418638
 
-#EXTINF:-1 channelID="x-ID.1159" tvg-chno="1159" tvg-id="1159" group-title="TV", LOCAL - Eleven4
+#EXTINF:-1 channelID="x-ID.1159" tvg-chno="1159" tvg-id="1159" group-title="TV", LOCAL - Eleven 4
 https://cdntv0800.com/eleven4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=a3b6d0fdb13b2392361962f433c1859931c2bdc3-fc9f853cbc7b06fc603dd1e557d5b6e7-1714321141-1714317541
 
-#EXTINF:-1 channelID="x-ID.1160" tvg-chno="1160" tvg-id="1160" group-title="TV", LOCAL - Eleven5
+#EXTINF:-1 channelID="x-ID.1160" tvg-chno="1160" tvg-id="1160" group-title="TV", LOCAL - Eleven 5
 https://server11.net/eleven5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=52c263b18e0317a859ea46fea0542dab9a9c7b1b-09d530467725f4cdf4654127eead16d5-1713126638-1713123038
 
-#EXTINF:-1 channelID="x-ID.1161" tvg-chno="1161" tvg-id="1161" group-title="TV", LOCAL - Eleven6
+#EXTINF:-1 channelID="x-ID.1161" tvg-chno="1161" tvg-id="1161" group-title="TV", LOCAL - Eleven 6
 https://server11.net/eleven6/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=f9a631c20f2a11415b2b9437d983ed56b38867fb-a197a8d8b2398f64b1240c15bfe12fb2-1713126646-1713123046
 
 #EXTINF:-1 channelID="x-ID.1162" tvg-chno="1162" tvg-id="1162" group-title="TV", LOCAL - Benfica TV
