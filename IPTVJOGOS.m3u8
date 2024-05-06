@@ -4,13 +4,13 @@
 
 
 #EXTINF:-1 channelID="x-ID.1151" tvg-chno="1151" tvg-id="1151" group-title="TV", LOCAL - Sport TV 1
-https://cdntv0800.com/spt1-alt/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=03215f220c016806d71fc37f2d11406c1268df52-835fca10b540c1eea2184e220014d19b-1714855412-1714851812
+https://cdntv0800.com/spt1/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=815e432acdd84882288a371065cdb5bc2bb9ba21-e7f3aa64e0706ce2100eaf554d87c4c8-1715027639-1715024039
 
 #EXTINF:-1 channelID="x-ID.1152" tvg-chno="1152" tvg-id="1152" group-title="TV", LOCAL - Sport TV 2
-https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=5ba8f89495f73f28fee6fef11725180feba9fc47-78c260a20b632bd0e48ca779bfbc690f-1714855441-1714851841
+https://cdntv0800.com/spt2/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=267b2fde5cc101371bbcbadbab5cf5708e44f977-e0a485e936e2a9d89093a833758ed430-1715027648-1715024048
 
 #EXTINF:-1 channelID="x-ID.1153" tvg-chno="1153" tvg-id="1153" group-title="TV", LOCAL - Sport TV 3
-https://cdntv0800.com/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=060902bc44ea4a333cfc75abf4629034ee57c2a0-5bf1c592e9dc1f7fd2b5dc561f2f9cc7-1714679296-1714675696
+https://cdntv0800.com/spt3/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=469134dfa8f30a57e8d0ab4fd9cef0ba5508c21a-8228d6925288b2baa5124aa012f83314-1715027660-1715024060
 
 #EXTINF:-1 channelID="x-ID.1154" tvg-chno="1154" tvg-id="1154" group-title="TV", LOCAL - Sport TV 4
 https://cdntv0800.com/spt4/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=44d263da00acd2ea7c76fe3987cc82acc74ea125-1f0f579a4444918a743949c86e9aca64-1714321087-1714317487
@@ -40,8 +40,7 @@ https://server11.net/eleven5/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=52
 https://server11.net/eleven6/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=f9a631c20f2a11415b2b9437d983ed56b38867fb-a197a8d8b2398f64b1240c15bfe12fb2-1713126646-1713123046
 
 #EXTINF:-1 channelID="x-ID.1162" tvg-chno="1162" tvg-id="1162" group-title="TV", LOCAL - Benfica TV
-https://cdntv0800.com/btv/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=01a4f56215d912612a69652f43b67cb26f1624ce-8d612b854aa0515371d165f1c6a16c58-1714321176-1714317576
-
+https://cdntv0800.com/btv/tracks-v1a1/mono.m3u8?remote=94.61.220.199&token=d79ad6d0f63173cb7fb0b092c21480d7efcafd7b-592642980fd32a6b8f407936e127b944-1715027669-1715024069
 
 
 
